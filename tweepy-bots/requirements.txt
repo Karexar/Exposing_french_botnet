@@ -271,7 +271,7 @@ PyRect==0.1.4
 pyrsistent==0.14.11
 PyScreeze==0.1.22
 PySocks==1.7.0
-pyspark==2.4.0
+pyspark==3.2.2
 pytest==5.0.1
 pytest-arraydiff==0.3
 pytest-astropy==0.5.0
